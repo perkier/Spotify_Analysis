@@ -29,13 +29,11 @@ Data Analysis of different Spotify playlists on my playlist library.
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+As a playlist hoarder and data science enthusiast, I was always curious to find new ways to discover new songs that could relate to my  own pllaylists or other playlists that I follow.
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+This project helped me dive deeper on some data analysis problems such as clustering and segmentation and I tried to create automated and interesting ways to visualize the data.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+The ultimate goal of this project would be to incorporate Reinforcement Learning with the player in order to give an almost perfect shuffle feature.
 
 
 ### Built With
