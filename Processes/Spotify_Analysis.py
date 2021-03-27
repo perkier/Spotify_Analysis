@@ -3,8 +3,8 @@ from User import User, see_all
 
 def new_spotify_df():
 
-    SPOTIPY_CLIENT_ID = "c833d78c87e24cbe801c41028494f694"
-    SPOTIPY_CLIENT_SECRET = "f86a3cd9e87b486a9357866d962d7587"
+    SPOTIPY_CLIENT_ID = "#####"
+    SPOTIPY_CLIENT_SECRET = "#####"
 
     client_1 = User(SPOTIPY_CLIENT_ID, SPOTIPY_CLIENT_SECRET)
 
