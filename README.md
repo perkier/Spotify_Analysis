@@ -55,11 +55,18 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Data Analysis Libraries:
+* pandas
+* numpy
+* scipy
+* sklearn
+
+Visualization Libraries:
+* seaborn
+* matplotlib
+
+Spotify API requests library:
+* spotipy
 
 
 <!-- USAGE EXAMPLES -->
