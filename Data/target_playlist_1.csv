@@ -1,0 +1,293 @@
+track_id,playlist_name,playlist_creator,duration_s,loudness_db,tempo_bpm,time_signature,key,mode,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,explicit,popularity,artist_popularity,artist_genres,artist_followers
+spotify:track:5p1gTWxxSWUzPmSt8xaV3G,Udo2021,Diogo Sá,230.29333,-11.532,140.03,4,10,0,0.672,0.903,0.0633,2.28e-05,0.863,0.0852,0.623,False,1,2,['nu electro'],241
+spotify:track:6jDx0ETyj4hJikaX8HrNzh,Udo2021,Diogo Sá,430.30414,-7.547,127.031,4,7,1,0.796,0.97,0.194,0.000288,0.869,0.406,0.0369,False,0,5,['australian techno'],36
+spotify:track:6M6ocigSd503F5NWTug6P9,Udo2021,Diogo Sá,425.4966,-8.779,140.023,4,11,1,0.644,0.957,0.0436,0.0777,0.884,0.113,0.443,False,0,23,[],707
+spotify:track:62QMAKV2tG3SVPTEwAAogC,Udo2021,Diogo Sá,384.48,-13.085,140.035,4,11,0,0.638,0.769,0.041,3.5e-05,0.944,0.0995,0.0822,False,0,2,[],30
+spotify:track:5GY8M8miz700f4BreT7bRs,Udo2021,Diogo Sá,350.22223,-8.021,134.979,4,2,1,0.594,0.94,0.0661,0.000177,0.911,0.635,0.356,False,28,58,"['aussietronica', 'australian house', 'float house', 'lo-fi house']",131396
+spotify:track:7IBZo8C9UW2GfB8a3nmWwI,Udo2021,Diogo Sá,297.1575,-11.339,133.884,4,1,1,0.728,0.793,0.0475,0.00124,0.929,0.391,0.498,False,14,8,[],59
+spotify:track:4ieO3GnOkATpOnUuAx7NCE,U DO YO THING 2019,Diogo Sá,428.40714,-5.695,127.0,4,0,1,0.637,0.86,0.0364,7.34e-05,0.874,0.0756,0.173,False,29,41,"['canadian house', 'experimental house']",28354
+spotify:track:3cep6Kb6PfrfsJSsORK7lR,U DO YO THING 2019,Diogo Sá,445.07465,-9.599,133.993,4,4,0,0.782,0.952,0.071,0.0456,0.926,0.11,0.0383,False,2,10,[],190
+spotify:track:5lT8D4uf23CMT9E9QhuSeF,U DO YO THING 2019,Diogo Sá,366.09332,-9.083,132.005,4,6,0,0.648,0.708,0.0397,0.000321,0.806,0.673,0.253,False,31,44,"['bass music', 'electronica', 'float house', 'future garage', 'intelligent dance music', 'mandible', 'microhouse', 'munich electronic', 'outsider house', 'wonky']",46790
+spotify:track:1AYDTlclDaGcXKnDpTE962,U DO YO THING 2019,Diogo Sá,312.63333,-10.476,133.005,4,10,0,0.705,0.767,0.0373,0.00332,0.612,0.11,0.167,False,3,8,[],2738
+spotify:track:6uBiuvgYqWdE8IN9EaU86P,U DO YO THING 2019,Diogo Sá,364.2991,-10.148,134.997,4,1,1,0.771,0.826,0.0628,0.00408,0.873,0.109,0.383,False,28,56,"['bass music', 'electronica', 'float house', 'future garage', 'intelligent dance music', 'microhouse', 'nu jazz', 'wonky']",209672
+spotify:track:3qsHi71RePJU0yuINarqEn,U DO YO THING 2019,Diogo Sá,640.0,-9.36,132.018,5,4,0,0.53,0.817,0.0519,0.00499,0.843,0.111,0.248,False,3,6,[],675
+spotify:track:4xJWsLpb08wETn23o7qWCG,U DO YO THING 2019,Diogo Sá,278.22464,-10.482,114.003,4,2,1,0.671,0.705,0.0927,0.0315,0.48,0.209,0.324,False,10,22,"['experimental electronic', 'outsider house']",3051
+spotify:track:2rTBFI4Rm0p3JXQpORAlIL,U DO YO THING 2019,Diogo Sá,334.3914,-9.08,127.014,4,7,1,0.66,0.949,0.0413,0.296,0.884,0.0662,0.289,False,14,29,[],3823
+spotify:track:3uQ0ORkbGdWF6fO1ONg92D,U DO YO THING 2019,Diogo Sá,537.4839,-9.433,124.987,4,1,0,0.803,0.713,0.0731,0.0015,0.902,0.0911,0.249,False,0,13,[],403
+spotify:track:0PMORVSDWbF3u9eVKtCqIA,U DO YO THING 2019,Diogo Sá,351.87128,-14.401,133.003,3,11,0,0.666,0.533,0.0467,0.232,0.947,0.111,0.059,False,4,8,[],714
+spotify:track:3mvSA54dUqONXRvP558s0h,U DO YO THING 2019,Diogo Sá,373.34204,-11.363,124.008,4,1,1,0.748,0.537,0.0533,0.25,0.85,0.107,0.165,False,19,10,[],196
+spotify:track:04QLMPlareJM6r0w9Qv0q5,U DO YO THING 2019,Diogo Sá,317.6902,-9.279,128.999,4,2,1,0.618,0.966,0.0569,0.00193,0.848,0.0836,0.107,False,30,45,"['acid house', 'canadian electronic', 'detroit techno', 'microhouse', 'minimal techno', 'tech house', 'techno']",210625
+spotify:track:31UcLklY9QxtYU6G3ovA1p,U DO YO THING 2019,Diogo Sá,412.0,-7.113,124.985,4,6,0,0.817,0.863,0.0727,0.000502,0.846,0.616,0.458,False,8,2,[],72
+spotify:track:5I16srV9CddEM98rMvKeaj,U DO YO THING 2019,Diogo Sá,427.31665,-10.769,122.989,4,4,0,0.858,0.936,0.0792,0.00456,0.894,0.0163,0.698,False,3,30,[],705
+spotify:track:6G5KpToiP2ebLEV20BTZ06,U DO YO THING 2019,Diogo Sá,399.7257,-9.542,124.994,4,1,1,0.82,0.966,0.0557,0.00176,0.375,0.0434,0.749,False,3,10,[],177
+spotify:track:6HZe3Qgt3uRHE6eXAcuJFL,U DO YO THING 2019,Diogo Sá,470.50952,-10.58,122.974,4,0,1,0.858,0.705,0.0918,0.00127,0.886,0.0723,0.628,False,3,19,['deep disco house'],1682
+spotify:track:09IT6ZbPsY5EioVEqeyq4j,U DO YO THING 2019,Diogo Sá,327.13846,-7.979,123.993,4,2,1,0.878,0.737,0.0817,0.000271,0.445,0.11,0.235,False,49,42,"['chicago house', 'classic house', 'deep house', 'footwork']",17536
+spotify:track:0BAADDsSyavwe0qhrjY1WY,U DO YO THING 2019,Diogo Sá,374.54666,-10.745,126.883,4,1,1,0.798,0.873,0.0521,0.0392,0.88,0.108,0.428,False,18,70,"['deep groove house', 'house', 'pop dance', 'uk dance', 'uk house']",30418
+spotify:track:5qiuZ8SNM2T8Ba0gjvrC4C,U DO YO THING 2019,Diogo Sá,337.10303,-10.968,131.297,4,6,0,0.689,0.962,0.0708,0.0126,0.856,0.778,0.0552,False,12,44,"['bass music', 'electronica', 'float house', 'future garage', 'intelligent dance music', 'mandible', 'microhouse', 'munich electronic', 'outsider house', 'wonky']",46790
+spotify:track:4d20lGr4cSwiBrweFdFvny,U DO YO THING 2019,Diogo Sá,350.0,-11.323,133.965,4,11,0,0.633,0.637,0.0463,0.000177,0.94,0.124,0.242,False,0,2,"['belgian techno', 'modular techno']",193
+spotify:track:1ulZRIuU11H4tBwldSh4KS,U DO YO THING 2019,Diogo Sá,207.0,-7.676,129.995,4,11,1,0.684,0.852,0.056,0.00106,0.893,0.0612,0.192,False,34,37,"['deep minimal techno', 'german tech house', 'hamburg electronic', 'minimal techno', 'tech house', 'techno']",29618
+spotify:track:4INEIQi2D0sTXwhLl3o1z6,U DO YO THING 2019,Diogo Sá,389.39133,-10.138,126.993,4,6,0,0.801,0.653,0.0684,0.0275,0.886,0.111,0.0372,False,5,14,[],504
+spotify:track:6uAkalVytXhSOXnSfXuZq0,U DO YO THING 2019,Diogo Sá,410.6391,-9.132,132.99,4,10,0,0.613,0.871,0.0557,0.0169,0.897,0.112,0.261,False,0,5,[],206
+spotify:track:0d3dubtSswSGpcowHTkhNe,U DO YO THING 2019,Diogo Sá,427.5,-9.981,128.024,4,4,0,0.789,0.919,0.0822,0.103,0.888,0.0918,0.321,False,4,5,[],206
+spotify:track:6hKoLpXZum4rTfnxQH5HSW,U DO YO THING 2019,Diogo Sá,404.51614,-7.842,128.012,4,0,1,0.782,0.923,0.0467,0.000262,0.903,0.52,0.354,False,5,31,"['deep minimal techno', 'deep tech house', 'italian tech house', 'tech house']",9911
+spotify:track:7cRxgKsY6oZY9u87BX8YKX,U DO YO THING 2019,Diogo Sá,140.16653,-8.869,131.608,4,10,0,0.517,0.936,0.0677,0.00274,0.254,0.0882,0.746,False,12,13,"['minimal tech house', 'munich electronic']",1698
+spotify:track:1gDIdzEwlM1tbuqc4R33gt,U DO YO THING 2019,Diogo Sá,433.08337,-18.697,128.016,4,1,1,0.669,0.453,0.0397,0.277,0.925,0.111,0.0972,False,27,56,"['alternative dance', 'danish electronic', 'danish electropop', 'electronica', 'microhouse', 'minimal techno', 'trip hop']",309986
+spotify:track:58SQp5GKIBBLhdpHh4zgsu,U DO YO THING 2019,Diogo Sá,464.34772,-10.379,125.002,4,1,1,0.751,0.704,0.0396,0.0349,0.857,0.0793,0.0302,False,0,13,[],403
+spotify:track:7qQKqPEmCpVw74eCoWvDer,U DO YO THING 2019,Diogo Sá,439.0,-8.339,126.987,4,2,1,0.801,0.895,0.124,0.00814,0.933,0.0907,0.141,False,0,11,[],717
+spotify:track:6x9MflLXXAJvhtNnsGJsvt,U DO YO THING 2019,Diogo Sá,481.1407,-11.523,124.999,4,11,0,0.614,0.488,0.0391,0.0271,0.842,0.0935,0.0399,False,0,0,[],44
+spotify:track:3dxVr3SohMJV33cUAcfT5I,U DO YO THING 2019,Diogo Sá,398.64795,-15.693,125.005,4,1,1,0.748,0.463,0.0493,0.00178,0.618,0.301,0.207,False,0,0,[],44
+spotify:track:7t2FpSZiW1jid8Hw80R8Un,U DO YO THING 2019,Diogo Sá,437.76,-7.224,125.006,4,10,0,0.843,0.551,0.0849,4.06e-05,0.912,0.0905,0.17,False,0,0,[],44
+spotify:track:5WsDRf1ldzeP97rs7lhSDi,U DO YO THING 2019,Diogo Sá,400.37332,-10.828,119.004,4,1,1,0.84,0.453,0.0612,0.00146,0.419,0.0799,0.353,False,39,51,"['electra', 'russian electronic', 'russian techno']",318275
+spotify:track:7KI1RepmtSoyGW1zODZrfh,U DO YO THING 2019,Diogo Sá,409.09216,-8.756,126.993,3,1,0,0.804,0.55,0.0751,0.000112,0.914,0.0785,0.249,False,0,13,[],403
+spotify:track:1mZvZqrg7IcYt9PrkI8AQK,U DO YO THING 2019,Diogo Sá,536.75,-10.648,126.005,4,10,0,0.689,0.575,0.0458,0.00136,0.0949,0.0873,0.248,False,0,13,[],403
+spotify:track:0XohvQKAWKwucoW6VCHox0,U DO YO THING 2019,Diogo Sá,379.45178,-8.784,128.021,4,1,1,0.708,0.733,0.0853,0.0185,0.895,0.102,0.242,False,21,43,"['acid house', 'dark disco', 'deep house', 'detroit techno', 'dub techno', 'electro', 'float house', 'intelligent dance music', 'microhouse', 'minimal dub', 'minimal techno', 'outsider house', 'tech house', 'techno']",46905
+spotify:track:6rJDEjRmIGco6QISIrKqDt,U DO YO THING 2019,Diogo Sá,377.53845,-5.844,130.02,4,1,1,0.827,0.936,0.0481,0.00255,0.507,0.753,0.208,False,20,27,['acid house'],18424
+spotify:track:20sQZ1WJlspmSy6HOaZ7Yc,U DO YO THING 2019,Diogo Sá,432.43976,-10.486,123.008,4,9,1,0.838,0.635,0.0784,0.00303,0.872,0.0745,0.296,False,28,31,"['dark disco', 'deep techno', 'mexican techno']",10343
+spotify:track:7kskrpz1MqiJokYs3Gx2vc,U DO YO THING 2019,Diogo Sá,349.122,-10.183,131.966,4,1,0,0.728,0.634,0.0726,0.0162,0.845,0.126,0.178,False,7,32,"['ambient techno', 'bass music', 'dub techno', 'float house', 'intelligent dance music', 'microhouse', 'minimal dub', 'minimal techno', 'outsider house', 'techno']",17164
+spotify:track:0Hwtt1D2HMytaUI3YGeD30,U DO YO THING 2019,Diogo Sá,450.95795,-11.424,122.988,4,11,0,0.792,0.792,0.0544,0.0201,0.852,0.0922,0.126,False,20,45,"['electronica', 'german techno', 'hamburg electronic', 'microhouse', 'minimal tech house', 'minimal techno', 'organic house', 'tech house']",76460
+spotify:track:6O2cMiwcklGxWJhOhfU5Hd,U DO YO THING 2019,Diogo Sá,293.0,-9.483,133.233,4,7,1,0.682,0.799,0.0502,3.91e-05,0.876,0.0685,0.245,False,7,40,"['minimal dub', 'minimal tech house', 'minimal techno', 'tech house', 'techno']",13572
+spotify:track:4godx3eSUx2cHZuJSviMmJ,U DO YO THING 2019,Diogo Sá,313.7629,-9.778,127.001,4,6,1,0.816,0.831,0.0524,5.58e-05,0.858,0.158,0.229,False,2,16,[],1342
+spotify:track:2WPAsDFWc5nf2xofl98Q0w,U DO YO THING 2019,Diogo Sá,328.0,-8.644,130.029,4,1,1,0.78,0.886,0.0699,0.00744,0.933,0.103,0.147,False,1,12,[],1325
+spotify:track:14muTWWLEH6ASYDSKZ5CGW,U DO YO THING 2019,Diogo Sá,330.2048,-10.953,125.987,4,2,0,0.808,0.732,0.0745,0.0632,0.956,0.0949,0.163,False,21,33,"['minimal dub', 'techno']",14962
+spotify:track:5QnOb1sWJOTM42gfUOhFJU,U DO YO THING 2019,Diogo Sá,336.25333,-10.329,135.0,5,2,1,0.699,0.802,0.0725,0.134,0.899,0.109,0.144,False,2,33,"['minimal dub', 'techno']",14962
+spotify:track:6jFxRUxCW6fz0qdUpzsi7C,U DO YO THING 2019,Diogo Sá,325.9027,-7.439,131.001,4,7,1,0.746,0.929,0.0982,0.00772,0.788,0.111,0.158,False,2,33,"['minimal dub', 'techno']",14962
+spotify:track:2Q5f7TNbZYefq23Q5C2q3c,U DO YO THING 2019,Diogo Sá,390.93115,-9.961,130.0,3,8,1,0.769,0.705,0.0705,0.00357,0.908,0.112,0.135,False,2,33,"['minimal dub', 'techno']",14962
+spotify:track:2VGQSo4K2X0UPwRu42sTVo,U DO YO THING 2019,Diogo Sá,301.00027,-11.907,127.996,4,2,1,0.73,0.685,0.0601,0.09,0.949,0.111,0.0425,False,2,33,"['minimal dub', 'techno']",14962
+spotify:track:0jnwydwmCe6gZZDWfYg884,U DO YO THING 2019,Diogo Sá,356.64,-9.437,124.996,4,0,0,0.81,0.764,0.0602,0.021,0.907,0.0901,0.243,False,21,44,"['deep disco house', 'deep house', 'disco house', 'funky tech house', 'house', 'minimal tech house', 'uk tech house']",33928
+spotify:track:3OXrglxS9XZtPtPttwDk0j,U DO YO THING 2019,Diogo Sá,457.84616,-7.924,129.995,4,4,0,0.714,0.986,0.0419,0.0149,0.891,0.16,0.332,False,2,2,[],92
+spotify:track:21uqgBVyhkmQ6w3Wpjo60m,U DO YO THING 2019,Diogo Sá,206.54668,-6.304,127.945,4,2,1,0.947,0.965,0.166,0.0485,0.92,0.0886,0.123,False,33,21,[],244
+spotify:track:2J2tdRVJRqRrBEQkOrP0tX,U DO YO THING 2019,Diogo Sá,397.5625,-6.203,123.999,4,11,0,0.806,0.715,0.0439,0.0013,0.921,0.125,0.471,False,19,52,"['deep disco house', 'deep groove house', 'deep house', 'house', 'minimal tech house', 'tech house', 'uk tech house']",40584
+spotify:track:09xB9TCIxa2NtLIb0QXUJA,U DO YO THING 2019,Diogo Sá,411.05627,-4.664,126.985,4,8,1,0.683,0.737,0.0347,0.00013,0.855,0.0831,0.0709,False,7,45,"['detroit house', 'detroit techno', 'techno']",27326
+spotify:track:3MwZ8XnIXUNdXaS6RnWhgz,U DO YO THING 2019,Diogo Sá,390.6159,-11.438,129.002,4,6,0,0.744,0.543,0.038,0.0287,0.674,0.0929,0.232,False,15,47,"['deep house', 'disco house', 'techno']",31212
+spotify:track:4qJoC8jApSrxXu4E0tnBf6,U DO YO THING 2019,Diogo Sá,412.89706,-10.617,133.993,4,11,0,0.719,0.676,0.0498,0.000354,0.86,0.109,0.0538,False,13,37,"['electroclash', 'microhouse', 'minimal techno', 'tech house', 'techno']",26893
+spotify:track:3sUbaEysZyaaZIjoUErMAk,U DO YO THING 2019,Diogo Sá,421.62445,-13.037,127.937,4,11,0,0.735,0.758,0.0856,0.121,0.0117,0.11,0.243,False,1,33,"['acid techno', 'frankfurt electronic', 'german techno', 'minimal dub', 'minimal techno', 'tech house', 'techno']",27406
+spotify:track:3nwwzrNmmcTt5nSa5xx2S9,U DO YO THING 2019,Diogo Sá,162.01959,-6.647,126.011,4,0,1,0.797,0.93,0.0459,0.000246,0.395,0.06,0.467,False,31,52,"['deep house', 'disco house', 'funky tech house', 'house', 'tech house', 'tribal house']",31794
+spotify:track:73ZfESxZCBvbdAdTzy1Xyp,U DO YO THING 2019,Diogo Sá,248.22044,-6.928,124.034,4,10,0,0.757,0.973,0.0461,0.047,0.711,0.127,0.461,False,15,32,"['funky tech house', 'swiss house']",6649
+spotify:track:506rHMyCdB2pyvmx12FARg,U DO YO THING 2019,Diogo Sá,199.03905,-5.504,123.02,4,7,0,0.716,0.932,0.0377,0.00433,0.658,0.238,0.484,False,26,40,[],4136
+spotify:track:0eCZ374V0zfrvAGiiy5ToH,U DO YO THING 2019,Diogo Sá,454.21878,-8.863,128.032,4,7,0,0.809,0.871,0.0545,0.0242,0.807,0.0897,0.0187,False,41,48,"['dark techno', 'tech house']",30810
+spotify:track:36X9LfJTR8JSnvvxKDC2wh,U DO YO THING 2019,Diogo Sá,333.23074,-13.623,130.008,4,5,0,0.464,0.827,0.0434,0.291,0.933,0.114,0.295,False,0,0,[],45
+spotify:track:59N6zrEsYsKhhxzHj9hDff,U DO YO THING 2019,Diogo Sá,398.7001,-12.114,126.998,4,6,1,0.801,0.641,0.0422,0.123,0.921,0.11,0.0337,False,17,30,['deep euro house'],4000
+spotify:track:6AJFf3id7CYY6XXi1t9FpY,U DO YO THING 2019,Diogo Sá,503.9891,-7.099,126.021,4,1,1,0.801,0.893,0.0628,0.0188,0.909,0.102,0.313,False,16,49,"['bass house', 'house', 'microhouse', 'minimal techno']",100271
+spotify:track:40gB8TLrDzmUDX2a5fkjgp,U DO YO THING 2019,Diogo Sá,511.54327,-9.09,126.99,4,11,1,0.641,0.798,0.0368,0.00694,0.906,0.112,0.0241,False,41,64,"['ambient', 'compositional ambient', 'electronica', 'intelligent dance music']",374512
+spotify:track:60tTGttisEDhdYQHBvL2Vy,U DO YO THING 2019,Diogo Sá,443.12744,-11.857,126.986,5,10,0,0.798,0.741,0.0551,0.062,0.943,0.112,0.716,False,1,30,['deep euro house'],4000
+spotify:track:0QXA2iqMzuIzvFqKTztdFD,U DO YO THING 2019,Diogo Sá,415.2,-7.249,125.023,4,9,0,0.807,0.553,0.0707,1.56e-05,0.901,0.106,0.307,False,0,1,[],91
+spotify:track:0LmjEfuCoVLpwwQroFR6Hk,U DO YO THING 2019,Diogo Sá,396.1905,-8.936,126.002,4,1,1,0.759,0.398,0.119,0.000109,0.892,0.119,0.229,False,1,1,[],91
+spotify:track:06OH4QC0De6tH3S2KWsZgD,U DO YO THING 2019,Diogo Sá,680.5467,-11.187,128.925,4,11,1,0.586,0.584,0.0345,0.187,0.822,0.111,0.583,False,0,33,"['german techno', 'microhouse', 'minimal techno', 'tech house']",20773
+spotify:track:1KiNEbmfe20LO0jitOp8Ao,U DO YO THING 2019,Diogo Sá,364.0889,-8.729,124.996,4,1,1,0.807,0.74,0.0793,0.00526,0.86,0.0993,0.651,False,38,49,"['bass house', 'house', 'microhouse', 'minimal techno']",100271
+spotify:track:56shAaXCI3eYnv1EbrJoob,U DO YO THING 2019,Diogo Sá,267.40027,-7.595,128.004,4,7,1,0.65,0.9,0.0517,0.00105,0.886,0.0939,0.189,False,41,45,"['dark techno', 'deep minimal techno', 'minimal techno', 'raw techno', 'tech house']",46235
+spotify:track:2IKLt22WR7g2OHUDU1S7lS,U DO YO THING 2019,Diogo Sá,570.85333,-8.272,127.989,4,11,1,0.792,0.952,0.049,3.92e-05,0.9,0.059,0.0419,False,0,41,"['acid house', 'detroit techno', 'dub techno', 'intelligent dance music', 'microhouse', 'minimal techno', 'tech house', 'techno']",66655
+spotify:track:2j7LRxhHJ2pzmyMvGbW7NV,U DO YO THING 2019,Diogo Sá,408.63275,-5.852,128.996,4,7,1,0.66,0.964,0.0419,0.0179,0.883,0.493,0.648,False,31,69,"['ambient house', 'electronica']",264709
+spotify:track:1zT7BpGDPzdn9uTqIF94Fw,U DO YO THING 2019,Diogo Sá,192.72,-14.926,139.59,4,8,0,0.779,0.66,0.314,0.362,0.886,0.163,0.888,False,0,38,"['afrofuturism', 'detroit techno', 'minimal techno', 'techno']",105656
+spotify:track:4D0WnLYfVz2pBnBshA8Apa,U DO YO THING 2019,Diogo Sá,547.29663,-14.448,125.99,4,11,1,0.788,0.463,0.0549,0.00181,0.82,0.105,0.372,False,0,33,"['deep house', 'float house', 'minimal tech house', 'tech house']",11363
+spotify:track:5EK4UC92m4WqdSHYMFwQ2B,U DO YO THING 2019,Diogo Sá,402.46155,-6.785,130.008,4,0,1,0.779,0.976,0.0495,0.0979,0.878,0.0971,0.0301,False,42,53,"['dark techno', 'raw techno']",15719
+spotify:track:6d6gteXBxu2UyLscOrmXju,U DO YO THING 2019,Diogo Sá,346.86368,-9.867,131.998,4,7,1,0.684,0.905,0.0533,0.00371,0.897,0.138,0.0394,False,1,20,['dutch experimental electronic'],178
+spotify:track:3iMo6K7vgIHHfYNLGlHzC0,U DO YO THING 2019,Diogo Sá,442.52426,-10.52,122.98,4,11,0,0.808,0.79,0.059,0.00546,0.933,0.097,0.428,False,0,41,"['acid house', 'detroit techno', 'dub techno', 'intelligent dance music', 'microhouse', 'minimal techno', 'tech house', 'techno']",66655
+spotify:track:4t1DXTyp454P6uY7FL29rg,U DO YO THING 2019,Diogo Sá,397.5,-15.635,127.993,4,11,0,0.793,0.476,0.0682,0.0673,0.941,0.104,0.0599,False,44,55,"['acid techno', 'belgian techno', 'dark techno', 'electra', 'minimal techno']",348995
+spotify:track:5kRU2LevJann9fJV4KQtUI,U DO YO THING 2019,Diogo Sá,427.1756,-13.364,127.002,4,7,1,0.706,0.817,0.053,0.186,0.911,0.113,0.0672,False,0,33,"['deep techno', 'minimal dub']",13162
+spotify:track:4Oeqlb64wcflWfSLAvbarL,U DO YO THING 2019,Diogo Sá,591.37726,-7.895,125.92,5,7,1,0.797,0.972,0.0719,0.00107,0.909,0.11,0.0325,False,0,41,"['acid house', 'detroit techno', 'dub techno', 'intelligent dance music', 'microhouse', 'minimal techno', 'tech house', 'techno']",66655
+spotify:track:52mtFDvTQvnZjLLJwgC0jG,U DO YO THING 2019,Diogo Sá,643.44,-6.664,139.527,4,6,1,0.558,0.854,0.033,0.00372,0.762,0.265,0.113,False,10,30,"['ambient house', 'big beat', 'classic progressive house', 'intelligent dance music', 'techno']",19095
+spotify:track:1p4yq0AsKMcLhndj4F7rkT,U DO YO THING 2019,Diogo Sá,500.22015,-14.056,127.794,4,1,1,0.677,0.538,0.0462,0.116,0.941,0.208,0.0343,False,0,41,"['acid house', 'detroit techno', 'dub techno', 'intelligent dance music', 'microhouse', 'minimal techno', 'tech house', 'techno']",66655
+spotify:track:65ew1mnrW5iC7ucLooUizL,U DO YO THING 2019,Diogo Sá,465.6,-10.249,124.982,4,8,1,0.789,0.597,0.052,0.00364,0.836,0.0654,0.533,False,0,14,[],516
+spotify:track:2aHlmz9siVdHNkXdmX2s1r,U DO YO THING 2019,Diogo Sá,393.83847,-11.767,129.999,4,6,0,0.719,0.747,0.0495,0.0474,0.884,0.115,0.0399,False,0,0,[],52
+spotify:track:6l1DaKJRpFVQbkOCHNj3Ga,U DO YO THING 2019,Diogo Sá,423.12576,-18.732,124.005,4,8,1,0.8,0.408,0.0653,0.0404,0.88,0.102,0.174,False,0,41,"['acid house', 'detroit techno', 'dub techno', 'intelligent dance music', 'microhouse', 'minimal techno', 'tech house', 'techno']",66655
+spotify:track:59p7TRCRJovkJujY9ScU1w,U DO YO THING 2019,Diogo Sá,449.52,-14.579,124.009,4,11,0,0.74,0.335,0.0676,0.0039,0.889,0.0643,0.336,False,0,20,['minimal techno'],6280
+spotify:track:0ne4zlrj0XkeqJ2GTpI7Na,U DO YO THING 2019,Diogo Sá,369.2531,-7.377,130.009,5,4,0,0.79,0.953,0.0629,0.0939,0.827,0.192,0.0385,False,0,11,['acid techno'],618
+spotify:track:0AjvRav9CK4tJnZjlqRXqt,U DO YO THING 2019,Diogo Sá,410.38168,-8.984,131.034,5,6,0,0.689,0.564,0.047,0.00665,0.923,0.113,0.0296,False,4,24,[],240
+spotify:track:0hePvsJnO4bCfbgDh3sTyZ,U DO YO THING 2019,Diogo Sá,332.59842,-9.94,127.032,4,1,1,0.878,0.392,0.079,0.000607,0.917,0.112,0.201,False,0,5,[],336
+spotify:track:30hMFKV9TubES8tIqqcxt0,U DO YO THING 2019,Diogo Sá,376.99216,-7.98,127.996,4,2,1,0.804,0.924,0.0688,0.000625,0.897,0.0868,0.0316,False,16,37,"['deep minimal techno', 'german tech house', 'hamburg electronic', 'minimal techno', 'tech house', 'techno']",29618
+spotify:track:6jYA37I55kgcaWx7GwnfKN,U DO YO THING 2019,Diogo Sá,449.24997,-9.657,124.986,4,8,1,0.806,0.642,0.0624,0.000999,0.875,0.103,0.488,False,3,23,[],904
+spotify:track:7N0bPOexdmto2GHZbYIKfF,U DO YO THING 2019,Diogo Sá,392.38095,-10.53,126.016,4,8,1,0.821,0.728,0.0781,0.00554,0.642,0.137,0.481,False,5,15,['hard minimal techno'],897
+spotify:track:4hE8I3iPRGRlIWxBGdTLAO,U DO YO THING 2019,Diogo Sá,476.20062,-13.068,126.006,4,9,1,0.804,0.735,0.0507,0.00018,0.93,0.0962,0.145,False,0,11,[],717
+spotify:track:4WxCuOB9TmEVLqmlRgd19D,U DO YO THING 2019,Diogo Sá,493.33334,-9.572,125.999,4,10,0,0.714,0.76,0.0377,1.83e-05,0.692,0.289,0.292,False,28,34,[],5265
+spotify:track:4bgDVZcifzlmM1mi8geoO0,U DO YO THING 2019,Diogo Sá,180.00381,-7.775,127.933,4,7,1,0.59,0.891,0.0561,0.0368,0.872,0.0954,0.596,False,5,17,[],664
+spotify:track:2WobLGO7SSVTNGK5ZHX6ru,U DO YO THING 2019,Diogo Sá,375.80994,-10.398,130.983,4,7,1,0.66,0.931,0.0795,0.179,0.582,0.105,0.352,False,25,30,"['minimal dub', 'techno']",11314
+spotify:track:641HVDGmUWoqsqcf54afiq,U DO YO THING 2019,Diogo Sá,342.03647,-10.371,134.992,4,1,0,0.659,0.864,0.0462,0.14,0.784,0.111,0.125,False,7,27,"['minimal dub', 'spanish techno']",7876
+spotify:track:1Ycul3CbUpL8BhV6o27hN7,U DO YO THING 2019,Diogo Sá,308.8372,-8.446,128.998,4,11,0,0.791,0.928,0.0969,0.00316,0.911,0.111,0.069,False,0,14,"['detroit techno', 'techno']",1740
+spotify:track:7LcgPliSfQOTbK5UrJO2yR,U DO YO THING 2019,Diogo Sá,418.0,-10.449,130.006,4,7,1,0.597,0.835,0.0567,0.00401,0.936,0.112,0.0307,False,0,10,['broken beat'],1586
+spotify:track:5ChAvEXoiWJISzcZndO8Uf,U DO YO THING 2019,Diogo Sá,671.0818,-9.689,129.881,4,4,0,0.695,0.737,0.087,0.0397,0.922,0.0961,0.151,False,0,41,"['acid house', 'detroit techno', 'dub techno', 'intelligent dance music', 'microhouse', 'minimal techno', 'tech house', 'techno']",66655
+spotify:track:16AWPFcIfmbrYvl4hjOVHD,U DO YO THING 2018,Diogo Sá,433.2184,-11.791,125.996,4,11,1,0.744,0.593,0.0466,0.16,0.888,0.0616,0.0694,False,47,55,"['acid techno', 'belgian techno', 'dark techno', 'electra', 'minimal techno']",348995
+spotify:track:4RL2i7eg7TpaRBAGSxAIL3,U DO YO THING 2018,Diogo Sá,442.04285,-8.646,125.987,4,6,1,0.634,0.847,0.0455,0.00102,0.917,0.0987,0.0916,False,8,18,[],1632
+spotify:track:0U7gS2qzQxVkiKjqX6Lqtw,U DO YO THING 2018,Diogo Sá,437.8952,-7.284,129.011,4,4,0,0.796,0.612,0.054,0.00601,0.897,0.085,0.635,False,0,10,"['finnish electronic', 'finnish techno', 'minimal dub']",3120
+spotify:track:26UkRLPYVanw9inxo2u6vs,U DO YO THING 2018,Diogo Sá,331.01764,-8.811,125.183,4,7,1,0.544,0.901,0.0665,0.000314,0.921,0.1,0.0683,False,0,41,"['acid house', 'detroit techno', 'dub techno', 'intelligent dance music', 'microhouse', 'minimal techno', 'tech house', 'techno']",66655
+spotify:track:76NqyIOIWC15SyWusyd8ip,U DO YO THING 2018,Diogo Sá,479.8609,-9.716,122.007,4,8,1,0.693,0.793,0.0492,4.59e-05,0.847,0.0849,0.232,False,0,50,['swedish electronic'],11937
+spotify:track:0sRKj7jAylS35QlvVztVDP,U DO YO THING 2018,Diogo Sá,471.02994,-8.411,124.006,4,10,0,0.826,0.77,0.0737,0.00592,0.902,0.103,0.0934,False,28,47,"['dark techno', 'german techno', 'hamburg electronic', 'minimal techno', 'tech house']",115949
+spotify:track:4dNNNxrL7igROvxGIOenL6,U DO YO THING 2018,Diogo Sá,367.52417,-8.01,127.001,3,8,1,0.606,0.958,0.0608,0.000952,0.896,0.327,0.0539,False,15,36,"['acid techno', 'italian techno', 'minimal dub']",31153
+spotify:track:6zaqxHMrQC3w03wQBPMqXV,U DO YO THING 2018,Diogo Sá,485.45837,-10.426,128.0,4,10,0,0.605,0.74,0.0313,0.000713,0.695,0.112,0.0657,False,33,40,"['minimal dub', 'raw techno']",51145
+spotify:track:4V5RDdvw9krnPVohfircTf,U DO YO THING 2018,Diogo Sá,472.72186,-10.956,126.015,4,5,0,0.782,0.773,0.0442,0.00243,0.846,0.0872,0.32,False,29,54,['electronica'],62128
+spotify:track:2X2FZiXSLPUrMzL3cU5zgP,U DO YO THING 2018,Diogo Sá,420.3329,-13.862,128.008,4,2,1,0.797,0.495,0.0568,0.135,0.893,0.0962,0.0302,False,14,40,"['minimal dub', 'raw techno']",51145
+spotify:track:2SSjxdoI5S4CeQS5JJ8Hfp,U DO YO THING 2018,Diogo Sá,391.38464,-10.42,130.006,4,10,0,0.63,0.864,0.0434,0.0165,0.903,0.128,0.327,False,17,10,['industrial techno'],973
+spotify:track:6LsCia1xLk7PjcJq5LYqHq,U DO YO THING 2018,Diogo Sá,405.98105,-10.591,130.009,4,4,0,0.633,0.926,0.0471,0.24,0.774,0.0899,0.425,False,0,5,['italian techno'],273
+spotify:track:0hIUdHS0pkuSeztJ3OdS78,U DO YO THING 2018,Diogo Sá,459.0475,-10.953,125.995,4,1,1,0.572,0.899,0.0359,0.00054,0.902,0.119,0.0323,False,1,28,[],3415
+spotify:track:13gOjgJ2b2W95mhtYBxt6q,U DO YO THING 2018,Diogo Sá,390.42032,-11.759,129.0,4,1,1,0.534,0.85,0.0539,0.000742,0.93,0.133,0.0572,False,24,36,"['french techno', 'minimal dub']",19298
+spotify:track:6EmFxyHH7dVWxSnEajryyj,U DO YO THING 2018,Diogo Sá,432.0,-6.198,128.017,4,11,0,0.747,0.779,0.108,0.00605,0.842,0.105,0.0696,False,0,10,[],1076
+spotify:track:0Wezz56nQx1b0t4uki3vC6,U DO YO THING 2018,Diogo Sá,369.6923,-8.458,130.003,4,1,0,0.622,0.935,0.0427,0.000198,0.923,0.0657,0.36,False,2,2,[],240
+spotify:track:0C68crUmV2MJRNpdQxAZ6g,U DO YO THING 2018,Diogo Sá,451.04544,-11.163,130.007,4,7,1,0.59,0.45,0.0508,4.74e-05,0.95,0.15,0.0231,False,6,31,"['acid house', 'dub techno', 'electro', 'float house', 'microhouse', 'minimal dub', 'minimal techno', 'outsider house', 'techno']",25836
+spotify:track:31LnCXmvh9caAk5hqEY4Sw,U DO YO THING 2018,Diogo Sá,336.56,-16.497,127.02,4,10,0,0.806,0.741,0.163,0.0651,0.965,0.109,0.208,False,0,0,[],25
+spotify:track:4eUROdTcrA2LsQngCsMTk1,U DO YO THING 2018,Diogo Sá,457.47845,-12.889,128.018,4,10,0,0.765,0.779,0.0372,0.135,0.771,0.11,0.0357,False,8,29,[],3823
+spotify:track:2b0voYBVZfES6verJIGwKA,U DO YO THING 2018,Diogo Sá,493.0082,-6.986,170.657,4,11,0,0.324,0.869,0.0595,0.000833,0.881,0.111,0.0429,False,0,0,[],45
+spotify:track:635SPsnl0WM2K75uSzdDBe,U DO YO THING 2018,Diogo Sá,474.06366,-7.191,127.997,4,7,1,0.64,0.948,0.0615,0.00205,0.807,0.113,0.181,False,7,21,"['minimal dub', 'techno']",9295
+spotify:track:0Kuh4qin6GwbhQWKx0BKrE,U DO YO THING 2018,Diogo Sá,389.53497,-10.821,129.989,4,7,1,0.614,0.841,0.0552,0.00186,0.865,0.0996,0.402,False,0,25,"['deep techno', 'frankfurt electronic', 'minimal dub']",16289
+spotify:track:5uNpSWn8UT05NusOGAbAyh,U DO YO THING 2018,Diogo Sá,424.61536,-13.364,130.005,4,11,1,0.742,0.649,0.0393,0.0135,0.85,0.0812,0.0446,False,3,43,[],38038
+spotify:track:6Q2IFmrVqxEKl3BA12pW0J,U DO YO THING 2018,Diogo Sá,457.70667,-12.268,126.991,4,0,1,0.884,0.445,0.0961,0.417,0.949,0.109,0.225,False,0,3,[],298
+spotify:track:63xwEqeyUdTitvyqnq9fiu,U DO YO THING 2018,Diogo Sá,509.39536,-13.303,128.029,4,6,0,0.525,0.735,0.111,0.0358,0.888,0.112,0.128,False,0,36,"['minimal dub', 'minimal techno']",58209
+spotify:track:6BGlUAhQDIyAzLZyRyMbEI,U DO YO THING 2018,Diogo Sá,368.91602,-11.56,124.994,4,2,1,0.801,0.79,0.0476,0.149,0.923,0.111,0.0371,False,12,36,"['acid techno', 'italian techno', 'minimal dub']",31153
+spotify:track:5JxTtRz9N6HnfAqBt1SNnV,U DO YO THING 2018,Diogo Sá,450.82666,-16.886,125.006,4,6,0,0.811,0.481,0.0539,0.0804,0.919,0.0999,0.151,False,0,36,"['minimal dub', 'minimal techno']",58209
+spotify:track:3XwKoG40JVci6lnKTFUTwq,U DO YO THING 2018,Diogo Sá,513.8615,-7.295,123.997,4,1,0,0.851,0.769,0.0936,0.000239,0.901,0.151,0.151,False,0,24,"['dark minimal techno', 'deep minimal techno', 'italian techno']",7095
+spotify:track:3ZlAq1k2FOMwhJHsfoGhAm,U DO YO THING 2018,Diogo Sá,423.52423,-11.715,129.019,4,11,0,0.786,0.657,0.0644,0.000112,0.84,0.288,0.137,False,25,29,['minimal dub'],12051
+spotify:track:2YTecFLcOBR9I0cY0puRqR,U DO YO THING 2018,Diogo Sá,431.96082,-12.888,129.982,4,11,0,0.789,0.636,0.0788,0.0468,0.913,0.112,0.0624,False,4,14,[],4344
+spotify:track:3eAzSnBoJAdbMEDbdzvjHT,U DO YO THING 2018,Diogo Sá,437.39282,-7.773,129.991,4,6,1,0.801,0.84,0.0748,0.00896,0.926,0.11,0.0839,False,7,40,"['minimal dub', 'raw techno']",51145
+spotify:track:1zsjXxyYPhg9U8a4nbezvm,U DO YO THING 2018,Diogo Sá,412.66504,-10.04,124.994,4,10,0,0.759,0.938,0.0479,0.0414,0.876,0.0895,0.417,False,0,36,"['acid techno', 'italian techno', 'minimal dub']",31153
+spotify:track:5SQsRtN6nyvpMHShbSoBOC,U DO YO THING 2018,Diogo Sá,494.49216,-9.195,124.002,4,6,0,0.784,0.758,0.0649,0.00592,0.712,0.103,0.299,False,47,57,"['deep disco house', 'deep house', 'electronica', 'house', 'latin tech house', 'melodic techno', 'microhouse', 'minimal tech house', 'minimal techno', 'organic house', 'tech house']",274598
+spotify:track:779wXJe2DeJioiMouHl2rI,U DO YO THING 2018,Diogo Sá,370.07602,-11.235,131.024,4,7,1,0.705,0.564,0.0436,0.0278,0.899,0.107,0.195,False,42,40,"['french techno', 'minimal dub']",32275
+spotify:track:33D1wWN0AwivUMib2OUEAn,U DO YO THING 2018,Diogo Sá,212.9771,-20.762,131.0,4,5,0,0.689,0.41,0.0527,0.0325,0.859,0.339,0.0496,False,0,0,[],17
+spotify:track:0QvepCVm6XuQnItdNFPrYG,U DO YO THING 2018,Diogo Sá,374.8944,-8.418,123.007,4,1,1,0.812,0.874,0.0484,0.000105,0.876,0.0621,0.257,False,7,38,"['bulgarian electronic', 'deep minimal techno', 'deep tech house', 'tech house']",22596
+spotify:track:0yyf3RgkOR3ZYXe2cIsQRk,U DO YO THING 2018,Diogo Sá,385.29858,-13.893,127.013,4,4,0,0.626,0.468,0.0799,0.00611,0.795,0.179,0.402,False,0,0,[],42
+spotify:track:2kOK2ctvYMyoqzyYoQ95PW,U DO YO THING 2018,Diogo Sá,449.63303,-9.751,124.988,4,1,1,0.805,0.563,0.0819,0.00565,0.838,0.0785,0.0738,False,26,47,"['dark techno', 'german techno', 'hamburg electronic', 'minimal techno', 'tech house']",115949
+spotify:track:1ZMLO9K7Rb3UYqryhCtift,U DO YO THING 2018,Diogo Sá,388.99203,-10.268,110.012,4,0,1,0.687,0.673,0.0385,0.013,0.872,0.112,0.348,False,12,40,"['minimal dub', 'raw techno']",51145
+spotify:track:0D5hwdyaXuUWJSFS3Hz55m,U DO YO THING 2018,Diogo Sá,422.66666,-11.544,127.219,4,11,0,0.8,0.468,0.0915,8.37e-05,0.879,0.153,0.0354,False,3,2,[],114
+spotify:track:4s9I6ZiDIaeLZZ7pv33gm5,U DO YO THING 2018,Diogo Sá,509.29724,-9.301,122.997,4,7,1,0.639,0.699,0.0381,0.000352,0.922,0.548,0.24,False,20,50,"['brazilian techno', 'dark techno', 'deep minimal techno', 'deep techno', 'minimal techno', 'tech house']",104584
+spotify:track:1uA7P7zk5LCMU2l5LIm84h,U DO YO THING 2018,Diogo Sá,502.93842,-9.835,126.04,4,10,0,0.675,0.83,0.052,0.0293,0.902,0.112,0.0924,False,0,29,"['german techno', 'minimal techno', 'techno']",8597
+spotify:track:29ud6SVgp9267gITBcW5Bf,U DO YO THING 2018,Diogo Sá,536.17334,-12.245,125.001,4,1,1,0.822,0.538,0.233,0.0529,0.895,0.111,0.0959,False,0,5,[],344
+spotify:track:5puzgL01DtZeMAQzrAwfsM,U DO YO THING 2018,Diogo Sá,421.68,-10.572,122.012,4,9,1,0.812,0.529,0.0432,0.158,0.929,0.109,0.0582,False,24,47,"['ambient techno', 'deep techno', 'electronica', 'microhouse', 'minimal techno']",104266
+spotify:track:6t5PhClzwYusSoxszC1C7s,U DO YO THING 2018,Diogo Sá,417.73987,-11.709,129.999,4,7,1,0.765,0.734,0.153,0.0286,0.784,0.112,0.105,False,11,44,"['acid techno', 'raw techno', 'spanish techno']",30053
+spotify:track:4VM32Cdun02ZxE1C6nR38w,U DO YO THING 2018,Diogo Sá,461.88,-6.806,125.001,4,1,0,0.779,0.801,0.0554,0.00556,0.865,0.1,0.179,False,0,24,"['dark minimal techno', 'deep minimal techno', 'italian techno']",7095
+spotify:track:667wCJSHiywBJpKc6w9Zqr,U DO YO THING 2018,Diogo Sá,529.37335,-18.891,150.155,3,1,1,0.646,0.299,0.0734,0.0814,0.854,0.368,0.572,False,0,41,"['acid house', 'detroit techno', 'dub techno', 'intelligent dance music', 'microhouse', 'minimal techno', 'tech house', 'techno']",66655
+spotify:track:3awPIhP9pE5VrffrtLr8pp,U DO YO THING 2018,Diogo Sá,480.4736,-11.225,128.004,4,1,1,0.7,0.752,0.0861,0.0897,0.928,0.112,0.043,False,21,34,['deep minimal techno'],9338
+spotify:track:2B03JnKfJA66SFsp1pBu8s,U DO YO THING 2018,Diogo Sá,389.74695,-14.707,129.008,3,7,1,0.75,0.559,0.0574,0.434,0.943,0.0975,0.517,False,0,29,"['minimal dub', 'ukrainian electronic', 'ukrainian experimental']",12978
+spotify:track:49eX1mbk6hqTZbTQJYF6EP,U DO YO THING 2018,Diogo Sá,360.3166,-8.443,130.001,4,11,0,0.558,0.839,0.041,0.000439,0.908,0.0893,0.297,False,1,22,['minimal dub'],4575
+spotify:track:3OOnhAh38aHwqdEhj7o4cy,U DO YO THING 2018,Diogo Sá,492.11557,-3.738,126.0,4,1,1,0.783,0.919,0.0427,9.86e-05,0.848,0.128,0.391,False,0,50,"['dark techno', 'italian techno', 'minimal techno', 'tech house']",115066
+spotify:track:2KNeDyUqYqlFRURKRvmCt1,U DO YO THING 2018,Diogo Sá,514.95966,-7.959,124.008,4,8,1,0.759,0.814,0.114,0.00278,0.775,0.122,0.0843,False,8,6,[],250
+spotify:track:1BiZIPwNd3yLP9KBoUqMRY,U DO YO THING 2018,Diogo Sá,533.3114,-7.716,129.009,4,1,0,0.752,0.874,0.0817,0.0342,0.864,0.175,0.154,False,47,50,"['dark techno', 'italian techno', 'minimal techno', 'tech house']",115066
+spotify:track:3ogkFdjmZGO1zf3JUleIOJ,U DO YO THING 2018,Diogo Sá,424.34998,-8.281,127.987,4,1,1,0.658,0.837,0.0483,0.079,0.925,0.106,0.0397,False,43,54,"['belgian techno', 'dark techno', 'raw techno', 'tech house']",41051
+spotify:track:2XGKGiyBmm6kHP2BG9zect,U DO YO THING 2018,Diogo Sá,376.24997,-12.376,122.995,4,2,1,0.794,0.764,0.0557,0.00122,0.936,0.111,0.0361,False,25,39,['minimal tech house'],8441
+spotify:track:5UhnzNrGM7ZWTjQJr3gSfu,U DO YO THING 2018,Diogo Sá,478.03278,-10.081,121.994,4,1,1,0.721,0.748,0.0495,0.019,0.868,0.0851,0.21,False,26,35,['organic electronic'],7684
+spotify:track:28MustrkeetS4sdar9Z345,U DO YO THING 2018,Diogo Sá,421.96722,-8.69,122.006,4,2,1,0.785,0.879,0.0389,0.00692,0.753,0.0576,0.0694,False,35,63,"['electronica', 'german techno', 'minimal techno', 'organic electronic', 'organic house', 'tech house']",248633
+spotify:track:1D1d9oNrWEVIslMLwMyxdl,U DO YO THING 2018,Diogo Sá,407.1045,-8.838,130.01,3,7,1,0.644,0.875,0.0326,0.0128,0.924,0.0966,0.0655,False,4,40,"['minimal dub', 'raw techno']",51145
+spotify:track:5FnCvKAlxAVbvBqPbOxUqv,U DO YO THING 2018,Diogo Sá,430.32822,-10.867,125.007,4,7,1,0.805,0.67,0.0788,0.000804,0.819,0.107,0.569,False,34,50,"['brazilian techno', 'dark techno', 'deep minimal techno', 'deep techno', 'minimal techno', 'tech house']",104584
+spotify:track:3wpHeRudCyvOgnPFPgGCGJ,U DO YO THING 2018,Diogo Sá,427.19003,-9.557,126.993,3,1,0,0.795,0.887,0.0685,0.00296,0.914,0.111,0.216,False,12,30,"['belgian techno', 'tech house', 'techno']",20414
+spotify:track:2N2QjCYvfKBqVnE2P8o1AO,U DO YO THING 2018,Diogo Sá,401.28,-7.341,124.978,4,0,1,0.701,0.946,0.0514,0.000696,0.84,0.09,0.559,False,0,42,"['dark techno', 'deep minimal techno', 'french techno', 'minimal techno', 'tech house']",73725
+spotify:track:4akREaR0fzZso8pHluNH8B,U DO YO THING 2018,Diogo Sá,373.33334,-5.075,125.996,4,1,1,0.777,0.865,0.0667,0.000355,0.881,0.114,0.594,False,26,42,"['dark techno', 'deep minimal techno', 'french techno', 'minimal techno', 'tech house']",73725
+spotify:track:4bWRp3RxDSq2qAIUEb3j7Q,U DO YO THING 2018,Diogo Sá,387.37497,-9.348,124.005,4,1,1,0.702,0.864,0.0561,0.0586,0.898,0.106,0.262,False,32,42,"['dark techno', 'deep minimal techno', 'french techno', 'minimal techno', 'tech house']",73725
+spotify:track:4LJ3nfcEEunlpFiyzYn5JT,U DO YO THING 2018,Diogo Sá,445.44,-12.917,124.993,4,6,1,0.81,0.56,0.0667,0.131,0.628,0.417,0.27,False,0,3,[],166
+spotify:track:0aAzXmWn6hfyKV9Rp9TOAo,U DO YO THING 2018,Diogo Sá,478.15384,-8.804,130.001,4,7,1,0.636,0.739,0.0775,0.00787,0.876,0.125,0.096,False,0,0,[],10
+spotify:track:11eGZndsuQysWmtwQDV8Rp,U DO YO THING 2018,Diogo Sá,449.59348,-10.034,126.004,4,11,0,0.959,0.375,0.229,0.137,0.9,0.098,0.192,False,0,3,[],166
+spotify:track:4rhldRz7fjeJOhv2ad8cws,U DO YO THING 2018,Diogo Sá,406.20407,-10.591,126.007,4,11,0,0.863,0.523,0.168,0.00528,0.767,0.104,0.0679,False,0,3,[],166
+spotify:track:6TJHmDs8PDNWmjgdR3FFVi,U DO YO THING 2018,Diogo Sá,419.76163,-15.272,124.008,4,10,0,0.803,0.193,0.146,0.0493,0.946,0.107,0.133,False,0,3,[],166
+spotify:track:301XeGMWmsaIpw7FHP4YI3,U DO YO THING 2018,Diogo Sá,396.72,-11.781,126.008,4,7,1,0.815,0.492,0.0592,0.00626,0.881,0.0883,0.304,False,0,3,[],166
+spotify:track:6ITDaRnXqviYRQm5AXb25Q,U DO YO THING 2018,Diogo Sá,441.6,-14.608,124.989,4,6,0,0.72,0.504,0.0449,0.00102,0.851,0.0918,0.0784,False,0,7,[],278
+spotify:track:3OPkZ3iTgHKi7Ff8svyq1A,U DO YO THING 2018,Diogo Sá,409.7549,-11.927,122.993,4,0,0,0.802,0.589,0.0907,0.000275,0.893,0.185,0.182,False,1,7,[],278
+spotify:track:4VyTJH9G26y9QWJ3MHPXxN,U DO YO THING 2018,Diogo Sá,480.0069,-12.979,121.011,4,2,1,0.807,0.657,0.161,0.00787,0.906,0.0879,0.532,False,0,7,[],278
+spotify:track:0qrMQphj8tUG79i0EJrQsh,U DO YO THING 2018,Diogo Sá,414.20154,-11.0,123.993,4,1,1,0.805,0.515,0.0976,0.000182,0.881,0.154,0.0528,False,0,7,[],278
+spotify:track:3Sw6r3NseWHfVsC1ChUa0j,U DO YO THING 2018,Diogo Sá,389.42126,-10.796,126.005,4,4,0,0.863,0.556,0.265,0.00454,0.712,0.0952,0.371,False,0,20,['italian techno'],935
+spotify:track:7akKeNDu3INRFLiYZAySyU,U DO YO THING 2018,Diogo Sá,377.9528,-8.825,126.996,4,10,0,0.777,0.887,0.0834,0.00607,0.905,0.0943,0.0388,False,2,38,[],408
+spotify:track:09b2eC7iPg8wl1ICQkPyed,U DO YO THING 2018,Diogo Sá,434.10287,-10.846,123.995,4,10,0,0.805,0.562,0.0586,0.00103,0.938,0.416,0.0647,False,1,3,[],179
+spotify:track:7rP9ktkUzULgvjQwqPSPHH,U DO YO THING 2018,Diogo Sá,525.2729,-8.194,128.011,4,7,1,0.654,0.732,0.0459,7.49e-05,0.907,0.449,0.0761,False,27,28,['german techno'],9394
+spotify:track:34zUy3SXdA5xjlhly7w0Sj,U DO YO THING 2018,Diogo Sá,410.38367,-7.12,123.999,4,11,1,0.808,0.682,0.0495,0.000386,0.903,0.0913,0.273,False,0,1,[],94
+spotify:track:4tNOtMqyB9cbdcxAzRD1zj,U DO YO THING 2018,Diogo Sá,404.2857,-9.269,125.016,4,7,1,0.827,0.462,0.111,0.000354,0.629,0.112,0.416,False,0,13,[],403
+spotify:track:2QOkYeGHfduZX6YLwV4d21,U DO YO THING 2018,Diogo Sá,542.06256,-7.937,123.984,4,1,1,0.81,0.781,0.049,4.95e-05,0.894,0.137,0.599,False,0,30,"['deep minimal techno', 'minimal techno']",31326
+spotify:track:4ZeXnpYgygFEOzuE0PRLpA,U DO YO THING 2018,Diogo Sá,384.74033,-8.943,125.001,4,8,1,0.888,0.615,0.136,4.77e-05,0.653,0.112,0.549,False,0,30,"['deep minimal techno', 'minimal techno']",31326
+spotify:track:4x1E99Fe36e06M5YbLBgMC,U DO YO THING 2018,Diogo Sá,202.77333,-8.615,127.915,4,8,0,0.808,0.781,0.045,0.00017,0.759,0.0732,0.552,False,34,44,"['classic house', 'deep house', 'diva house', 'garage house', 'vocal house', 'vogue']",38720
+spotify:track:2vET9OpHmS9CYRge8LPHi9,U DO YO THING 2018,Diogo Sá,369.78513,-9.581,124.996,4,4,0,0.808,0.588,0.0471,0.0489,0.925,0.106,0.325,False,0,13,[],403
+spotify:track:6iNxysggqnsZf3jsAD2ZwX,U DO YO THING 2018,Diogo Sá,431.42856,-9.964,126.01,4,2,1,0.805,0.642,0.0552,0.125,0.863,0.105,0.256,False,0,13,[],403
+spotify:track:6CfOx4MqmPTSa564zOBnee,U DO YO THING 2018,Diogo Sá,373.50668,-6.001,114.958,4,11,0,0.815,0.631,0.124,0.00456,0.862,0.109,0.324,False,32,23,['experimental house'],3381
+spotify:track:5PBJtgisSLwqypFTLkMNJ1,U DO YO THING 2018,Diogo Sá,519.1244,-9.669,123.01,4,1,0,0.804,0.569,0.0514,0.000155,0.939,0.0611,0.142,False,24,48,"['deep techno', 'italian techno', 'melodic techno']",65124
+spotify:track:3y8YnAt72vXi4qKaUygr7O,U DO YO THING 2018,Diogo Sá,219.63754,-8.243,125.016,4,1,0,0.711,0.983,0.106,0.142,0.673,0.34,0.108,False,0,68,"['bass house', 'deep groove house', 'edm', 'electro house', 'house', 'melbourne bounce', 'pop dance', 'progressive house']",186373
+spotify:track:26oSDKypk0yTVUlCHi5B73,U DO YO THING 2018,Diogo Sá,416.01443,-10.013,125.998,4,6,0,0.807,0.86,0.0607,0.000606,0.912,0.0403,0.825,False,29,60,"['electra', 'float house']",336004
+spotify:track:6ElIIK5EX5ZL9KdKV9YRc7,U DO YO THING 2018,Diogo Sá,353.45334,-6.689,119.98,4,1,1,0.678,0.922,0.0395,0.000394,0.644,0.503,0.722,False,16,28,"['electro', 'ghettotech']",4927
+spotify:track:5jooaVw1HTvo2aaAfyoPrV,U DO YO THING 2018,Diogo Sá,540.81055,-5.604,128.007,4,0,1,0.789,0.885,0.0433,0.000267,0.902,0.087,0.785,False,8,34,['deep minimal techno'],9338
+spotify:track:78xoKWEeBDRVRlOxxio0r4,U DO YO THING 2018,Diogo Sá,384.98544,-12.549,129.999,4,11,1,0.792,0.917,0.0529,0.363,0.942,0.11,0.152,False,14,10,[],1826
+spotify:track:6KARSEmuxURBiiqDHdxzs7,U DO YO THING 2018,Diogo Sá,364.48862,-13.021,131.992,3,7,1,0.718,0.749,0.0413,0.436,0.948,0.106,0.363,False,5,27,"['industrial techno', 'minimal dub', 'portuguese techno']",2066
+spotify:track:6qwpGTMog5F3cwhPW3fcnW,U DO YO THING 2018,Diogo Sá,376.4384,-13.872,130.007,5,7,1,0.781,0.693,0.0728,0.329,0.832,0.11,0.0327,False,1,12,['dub techno'],1163
+spotify:track:3EML6auJDuyvqjKDGFGnBs,U DO YO THING 2018,Diogo Sá,384.375,-10.262,128.008,4,6,1,0.89,0.883,0.212,0.326,0.957,0.107,0.101,False,1,27,"['minimal dub', 'spanish techno']",7876
+spotify:track:4KqjjTByIjy857uz5TMOuL,U DO YO THING 2018,Diogo Sá,354.07092,-7.397,132.99,4,1,1,0.694,0.968,0.0929,0.0993,0.734,0.0926,0.0792,False,3,1,[],40
+spotify:track:2LrbB1b6mAHgCLE8yzbWjj,U DO YO THING 2018,Diogo Sá,390.61194,-9.283,123.507,4,4,0,0.798,0.676,0.047,0.000125,0.814,0.294,0.0829,False,3,3,[],381
+spotify:track:0oSigDSDs2Sr1IMRwQVjjL,U DO YO THING 2018,Diogo Sá,475.10522,-13.625,127.006,4,1,0,0.506,0.639,0.0344,0.00031,0.833,0.11,0.114,False,0,12,[],1151
+spotify:track:5ub3J39KB6UH1gLGEoFks1,U DO YO THING 2018,Diogo Sá,463.97937,-10.034,135.099,4,6,1,0.789,0.989,0.0527,0.00434,0.94,0.103,0.309,False,37,39,"['classic progressive house', 'german techno', 'minimal techno', 'tech house']",13519
+spotify:track:32soYCa9SMfPUmRtvQZ6cf,U DO YO THING 2018,Diogo Sá,327.4,-8.31,126.007,4,0,1,0.901,0.671,0.276,0.000606,0.847,0.889,0.475,False,1,52,"['deep house', 'disco house', 'funky tech house', 'house', 'tech house', 'tribal house']",31794
+spotify:track:4eegSpmN0UPpWlteVkE9No,U DO YO THING 2018,Diogo Sá,399.55704,-10.165,103.405,4,7,1,0.777,0.583,0.0629,0.00133,0.775,0.104,0.0393,False,24,29,"['dutch experimental electronic', 'float house', 'outsider house']",10053
+spotify:track:2h7inLY3CmDT9poS6flCA3,U DO YO THING 2020,Diogo Sá,273.29297,-9.62,130.014,4,7,1,0.775,0.876,0.0711,4.68e-05,0.913,0.384,0.037,False,6,14,['minimal dub'],3175
+spotify:track:3d60FhuHqIzce8Xk9c8xqL,U DO YO THING 2020,Diogo Sá,487.38464,-10.791,129.999,4,8,1,0.629,0.905,0.0385,0.0215,0.899,0.121,0.497,False,3,20,['acid techno'],5346
+spotify:track:6iqzToiffZMhftvWuehBf3,U DO YO THING 2020,Diogo Sá,396.62604,-8.521,124.996,4,4,0,0.803,0.744,0.0496,0.000131,0.922,0.12,0.131,False,3,2,[],163
+spotify:track:5bYqDyMjZiK01fw7R9yTSL,U DO YO THING 2020,Diogo Sá,291.27448,-11.062,133.028,4,7,1,0.456,0.75,0.0394,0.000208,0.821,0.248,0.182,False,1,6,[],675
+spotify:track:7tsnKCbXukKqLzymGHHc0e,U DO YO THING 2020,Diogo Sá,415.38666,-10.703,130.001,4,11,0,0.676,0.563,0.0396,0.00397,0.879,0.118,0.544,False,3,14,[],1740
+spotify:track:0R8vWS7cltCzJjHGCnvCWw,U DO YO THING 2020,Diogo Sá,450.5323,-9.149,129.994,4,5,0,0.708,0.837,0.0481,0.000919,0.813,0.138,0.397,False,2,33,"['minimal dub', 'techno']",17053
+spotify:track:50WZ62wKkWGiXEPxjMRO5H,U DO YO THING 2020,Diogo Sá,399.92935,-10.42,126.98,4,7,1,0.705,0.796,0.0513,0.051,0.93,0.0748,0.262,False,2,33,"['minimal dub', 'techno']",17053
+spotify:track:32g2UUy9PiRkYag1HPI497,U DO YO THING 2020,Diogo Sá,308.049,-7.16,132.034,4,2,1,0.578,0.965,0.0783,0.0926,0.875,0.185,0.563,False,0,51,"['ambient techno', 'chamber psych', 'electronica', 'float house', 'intelligent dance music', 'microhouse', 'shiver pop']",77940
+spotify:track:20bxUlQIpUHbJoLlHe3FI6,U DO YO THING 2020,Diogo Sá,362.4378,-9.162,130.0,4,0,1,0.478,0.885,0.0367,0.000159,0.898,0.0645,0.12,False,0,5,[],669
+spotify:track:4oIafCx0Lz9JyvqRC8B2N9,U DO YO THING 2020,Diogo Sá,468.30893,-11.385,128.008,4,1,0,0.774,0.7,0.0461,0.000868,0.894,0.121,0.0743,False,0,13,[],403
+spotify:track:66rTd6k8ct1QUXTVEPD7rg,U DO YO THING 2020,Diogo Sá,378.875,-12.988,127.004,4,7,1,0.805,0.585,0.112,0.0456,0.82,0.0713,0.222,False,0,3,[],166
+spotify:track:3WkREWKXXKXIoZKHQBoYsx,U DO YO THING 2020,Diogo Sá,319.3985,-8.857,132.997,4,2,1,0.75,0.94,0.0348,1.71e-05,0.896,0.113,0.104,False,0,2,['portuguese techno'],61
+spotify:track:0J8vAI9np8hEO69o7rB6xb,U DO YO THING 2020,Diogo Sá,487.88498,-10.473,129.995,4,6,0,0.714,0.454,0.0797,0.151,0.927,0.111,0.0781,False,24,41,"['acid house', 'detroit techno', 'dub techno', 'intelligent dance music', 'microhouse', 'minimal techno', 'tech house', 'techno']",66655
+spotify:track:62EOwlLt09VOhxEyYscXw8,U DO YO THING 2020,Diogo Sá,350.34924,-6.9,127.007,3,2,1,0.722,0.806,0.115,0.0972,0.879,0.104,0.294,False,9,31,"['minimal dub', 'minimal techno', 'spanish techno', 'techno']",38615
+spotify:track:71OnkWmM5fwEhZcfyC6S9x,U DO YO THING 2020,Diogo Sá,443.3588,-9.169,131.001,4,10,0,0.652,0.678,0.134,6.77e-05,0.833,0.103,0.16,False,0,33,"['minimal dub', 'raw techno']",15281
+spotify:track:4xobZz4teXQtFU0P7dMijU,U DO YO THING 2020,Diogo Sá,474.0,-10.033,130.968,4,1,1,0.69,0.83,0.106,0.00246,0.803,0.109,0.149,False,0,33,"['minimal dub', 'raw techno']",15281
+spotify:track:5ISHfymiN1BZS8S0d7cLx4,U DO YO THING 2020,Diogo Sá,313.77124,-12.507,126.991,4,1,1,0.762,0.848,0.134,0.00517,0.844,0.0801,0.15,False,26,27,['minimal dub'],7520
+spotify:track:0LyViS2PWDSpPJkbE9vXr8,U DO YO THING 2020,Diogo Sá,389.7005,-6.407,129.997,5,10,0,0.626,0.952,0.0341,0.00104,0.849,0.109,0.289,False,21,24,[],2536
+spotify:track:1upOEq5jsXbOjAOT55QBHW,U DO YO THING 2020,Diogo Sá,449.34482,-9.465,130.003,4,7,1,0.736,0.997,0.0644,0.0286,0.874,0.111,0.498,False,10,16,['acid techno'],1703
+spotify:track:65ASKsJEaHOPuo6eB1Z2CP,U DO YO THING 2020,Diogo Sá,422.02557,-11.913,131.996,4,10,0,0.612,0.595,0.0481,0.0215,0.807,0.106,0.0398,False,4,9,['industrial techno'],491
+spotify:track:4yHkATqUWOaffxyPcWEARk,U DO YO THING 2020,Diogo Sá,406.82074,-7.945,133.997,4,0,1,0.586,0.833,0.0536,0.00434,0.87,0.16,0.153,False,5,27,['minimal dub'],9035
+spotify:track:1gdkOl0IOK14AQHuDA8nRT,U DO YO THING 2020,Diogo Sá,345.51294,-7.514,130.019,4,10,0,0.72,0.738,0.0613,0.000395,0.882,0.081,0.123,False,19,24,"['acid techno', 'minimal dub']",6540
+spotify:track:1w4S42nCn00tgDIOAszpQ5,U DO YO THING 2020,Diogo Sá,403.47827,-10.023,138.009,4,11,0,0.66,0.827,0.109,0.000277,0.826,0.553,0.0826,False,17,40,"['hard techno', 'minimal dub', 'norwegian techno']",6320
+spotify:track:1BKoz27WCJPcZCLWKflmoO,U DO YO THING 2020,Diogo Sá,435.14267,-8.766,128.994,4,2,1,0.793,0.789,0.0454,0.0212,0.925,0.113,0.0393,False,10,14,['minimal dub'],3175
+spotify:track:7DjoH7c6quQlQyRMQ378VO,U DO YO THING 2020,Diogo Sá,178.6981,-3.901,130.021,4,6,0,0.469,0.999,0.123,0.0981,0.927,0.0567,0.289,False,11,50,['raw techno'],63665
+spotify:track:4NnHGDU3tQ6J25TgBtQLEz,U DO YO THING 2020,Diogo Sá,432.48618,-11.791,131.991,4,1,1,0.681,0.842,0.0477,0.107,0.772,0.111,0.191,False,5,30,"['belgian techno', 'minimal dub']",2794
+spotify:track:7FRhonGrk3Qg9082ti9CSh,U DO YO THING 2020,Diogo Sá,397.18307,-11.028,142.975,4,2,1,0.58,0.941,0.0579,0.0147,0.908,0.12,0.739,False,2,0,[],13
+spotify:track:3JaV2GOaA1t9QdywPNZN0g,U DO YO THING 2020,Diogo Sá,480.0,-11.605,128.019,4,1,1,0.716,0.59,0.0368,0.026,0.827,0.104,0.43,False,21,25,['aussietronica'],4251
+spotify:track:0AZip5HFSUDuro7KMNYa08,U DO YO THING 2020,Diogo Sá,395.33527,-9.573,135.992,4,1,1,0.54,0.921,0.0397,0.000136,0.908,0.0748,0.178,False,2,2,[],132
+spotify:track:5sbCXvnZQEREKHF6IU7Hmf,U DO YO THING 2020,Diogo Sá,875.56,-10.352,128.77,4,2,1,0.509,0.874,0.0463,0.00195,0.851,0.0989,0.266,False,22,54,"['big beat', 'breakbeat', 'electronica', 'hardcore techno', 'intelligent dance music', 'rave']",255173
+spotify:track:2T77pg3sXMn4Eff1jgkp6J,U DO YO THING 2020,Diogo Sá,329.76608,-8.531,130.995,4,4,0,0.794,0.803,0.0584,0.000306,0.924,0.0824,0.0371,False,4,3,[],148
+spotify:track:0rlIFy8BxuCsQYodVwcJaS,U DO YO THING 2020,Diogo Sá,287.65958,-7.769,141.028,4,4,1,0.779,0.976,0.0696,0.00503,0.91,0.105,0.492,False,0,1,[],17
+spotify:track:6D7UCgHJbZJBot9QcElQLx,U DO YO THING 2020,Diogo Sá,404.0755,-11.257,141.0,4,1,1,0.772,0.846,0.082,0.0011,0.843,0.104,0.217,False,17,9,[],248
+spotify:track:1lZMBisdR0y7OKJf9LUAPj,U DO YO THING 2020,Diogo Sá,367.9399,-9.072,134.994,4,6,0,0.618,0.777,0.0461,0.00077,0.846,0.0877,0.275,False,18,18,['acid techno'],2859
+spotify:track:2TyFxRKF8sMlj0neKCQ71Q,U DO YO THING 2020,Diogo Sá,428.27704,-11.121,125.923,3,1,0,0.801,0.949,0.0438,0.00174,0.901,0.11,0.61,False,2,13,"['swedish electronic', 'swedish techno']",1379
+spotify:track:3RBs3AaGbbnjRxwciCUdEh,U DO YO THING 2020,Diogo Sá,378.94736,-10.036,133.015,4,10,0,0.677,0.788,0.0487,0.309,0.906,0.118,0.0733,False,11,36,"['lithuanian electronic', 'minimal dub']",25776
+spotify:track:28fKPCbHISWdXpETlHqQIX,U DO YO THING 2020,Diogo Sá,372.0,-13.274,126.006,4,8,0,0.671,0.831,0.0431,0.00056,0.925,0.111,0.293,False,1,14,[],4344
+spotify:track:2n3fK3uqDXJmNrA7ARULpW,U DO YO THING 2020,Diogo Sá,431.61252,-8.212,146.0,4,1,1,0.735,0.818,0.0398,1.4e-05,0.889,0.0952,0.494,False,1,2,[],50
+spotify:track:57mHODGVQHoGKKP8gubDJ5,U DO YO THING 2020,Diogo Sá,399.68,-10.569,140.016,4,11,0,0.625,0.786,0.0822,9.04e-05,0.853,0.16,0.487,False,13,41,"['danish techno', 'experimental techno']",15866
+spotify:track:6HlzEjbYf13zJfVP3UhWBz,U DO YO THING 2020,Diogo Sá,337.49973,-5.864,128.019,4,7,1,0.744,0.946,0.0546,0.00142,0.823,0.143,0.529,False,15,18,['experimental techno'],2518
+spotify:track:3uJEPZ0UlvtN4Ie7kD17sv,U DO YO THING 2020,Diogo Sá,337.95483,-4.964,137.991,4,4,0,0.687,0.976,0.0568,7.93e-06,0.832,0.102,0.317,False,5,48,"['art pop', 'canadian electronic', 'electra', 'electroclash']",40245
+spotify:track:04SIzweF3RgTPnidEq2hOu,U DO YO THING 2020,Diogo Sá,369.10434,-10.763,117.997,4,10,0,0.802,0.836,0.05,0.000952,0.808,0.687,0.1,False,6,8,[],451
+spotify:track:46D61qIowJwxwtOST0RiKN,U DO YO THING 2020,Diogo Sá,366.12698,-9.059,125.996,4,1,0,0.689,0.814,0.0432,0.0637,0.812,0.158,0.835,False,4,4,['industrial techno'],1220
+spotify:track:0x9aRJNLcAtf0gb4Sy797b,U DO YO THING 2020,Diogo Sá,395.91238,-8.239,137.014,4,0,1,0.598,0.963,0.0405,0.000195,0.819,0.129,0.729,False,47,58,"['aussietronica', 'australian house', 'float house', 'lo-fi house']",131396
+spotify:track:2bq8YYbnwu5pjO8OpL4bPe,U DO YO THING 2020,Diogo Sá,231.34299,-8.96,150.02,4,6,1,0.642,0.914,0.0404,0.000113,0.939,0.107,0.652,False,20,32,['braindance'],63522
+spotify:track:1vtJiqEVv91k7QzY7whCUM,U DO YO THING 2020,Diogo Sá,443.97705,-9.517,141.945,4,5,0,0.557,0.918,0.0538,0.00256,0.853,0.113,0.168,False,9,8,[],86
+spotify:track:7LIotEJRvY8eagM6da96HA,U DO YO THING 2020,Diogo Sá,404.24475,-12.73,139.481,4,1,0,0.714,0.68,0.175,0.000225,0.745,0.355,0.522,False,18,44,"['bass music', 'electronica', 'float house', 'future garage', 'intelligent dance music', 'mandible', 'microhouse', 'munich electronic', 'outsider house', 'wonky']",46790
+spotify:track:66OPsrKRNOZiOoDkpiOJZ5,U DO YO THING 2020,Diogo Sá,406.00418,-8.415,132.001,4,10,0,0.763,0.676,0.0574,0.104,0.928,0.111,0.138,False,26,43,"['bass music', 'electronica', 'float house', 'future garage', 'microhouse', 'outsider house']",20291
+spotify:track:23mV6oZvAfp4hj4IyhbtxO,U DO YO THING 2020,Diogo Sá,289.939,-8.574,134.032,4,11,0,0.756,0.863,0.119,0.0317,0.734,0.111,0.512,False,3,19,['minimal dub'],4710
+spotify:track:4wZeJmwXQdWmpP9baKvD8R,U DO YO THING 2020,Diogo Sá,339.1228,-7.292,124.997,4,1,1,0.804,0.988,0.123,0.000765,0.933,0.0975,0.417,False,2,2,[],101
+spotify:track:3i8Lx7UNXXUvbwmGx0gsz5,U DO YO THING 2020,Diogo Sá,397.5,-8.396,127.997,4,0,1,0.797,0.939,0.051,0.0162,0.923,0.1,0.182,False,0,2,[],101
+spotify:track:019FGl1ewegy6ALj0sGfHC,U DO YO THING 2020,Diogo Sá,260.06348,-9.576,140.99,4,6,0,0.757,0.785,0.0506,0.00339,0.896,0.143,0.0386,False,16,26,['australian techno'],3362
+spotify:track:4byN6J0deMnHVk1CuHCeiM,U DO YO THING 2020,Diogo Sá,348.38885,-6.898,133.338,4,8,0,0.757,0.971,0.0843,0.0047,0.849,0.0865,0.493,False,17,34,"['bass music', 'classic dubstep', 'drumfunk', 'float house', 'footwork', 'future garage', 'microhouse', 'outsider house', 'wonky']",24790
+spotify:track:5SsgmiLNsPRMd9KZN6TOdR,U DO YO THING 2020,Diogo Sá,394.96063,-8.23,126.998,4,7,1,0.624,0.886,0.0368,0.00804,0.876,0.107,0.22,False,25,47,"['art pop', 'bass music', 'electronica', 'escape room', 'float house', 'future garage', 'microhouse', 'outsider house', 'transpop']",35160
+spotify:track:1WOBY8pcg4VW3kDxpnmHDs,U DO YO THING 2020,Diogo Sá,366.67184,-7.768,131.988,4,10,0,0.714,0.858,0.0477,0.000567,0.913,0.111,0.31,False,27,50,['raw techno'],63665
+spotify:track:04uoTbTq7iJ8NSvosucAKw,U DO YO THING 2020,Diogo Sá,386.02118,-9.981,140.015,4,7,1,0.661,0.793,0.0484,0.0206,0.933,0.0988,0.411,False,26,41,"['danish techno', 'experimental techno']",15866
+spotify:track:5kBlu8s2LHrLbVmD3s669B,U DO YO THING 2020,Diogo Sá,405.74667,-5.789,88.392,3,1,1,0.406,0.984,0.135,0.000229,0.00555,0.102,0.318,False,13,27,['acid house'],18424
+spotify:track:4RdjwIqf7f66Exe5eT6zuZ,U DO YO THING 2020,Diogo Sá,303.17334,-5.81,137.976,4,2,1,0.481,0.945,0.0364,2.49e-05,0.872,0.814,0.611,False,11,22,['acid techno'],3446
+spotify:track:1lxqBEBZGdCGFQYQ5dwYr6,U DO YO THING 2020,Diogo Sá,350.74033,-9.414,135.005,4,6,1,0.563,0.937,0.0654,0.00247,0.724,0.118,0.311,False,6,6,['industrial techno'],447
+spotify:track:16JY8jvUrndXWTdDjbER2C,U DO YO THING 2020,Diogo Sá,379.9072,-10.198,136.991,4,1,1,0.701,0.855,0.0442,0.00178,0.923,0.41,0.193,False,18,45,"['electra', 'electronica', 'german techno', 'microhouse', 'minimal techno', 'tech house']",129591
+spotify:track:2Rxz7OJfrih2N8kvAOYlEu,U DO YO THING 2020,Diogo Sá,502.85864,-6.187,141.11,4,7,1,0.68,0.99,0.0774,0.00417,0.9,0.0811,0.737,False,0,15,['acid techno'],2357
+spotify:track:6VSmJA8umBQji1xrLSLnzH,U DO YO THING 2020,Diogo Sá,532.2246,-9.1,132.005,4,11,0,0.782,0.739,0.0542,0.0116,0.88,0.122,0.156,False,4,31,"['acid house', 'dub techno', 'electro', 'float house', 'microhouse', 'minimal dub', 'minimal techno', 'outsider house', 'techno']",25836
+spotify:track:6R5RWWR7WUIKoOhwY5u7yv,U DO YO THING 2020,Diogo Sá,347.42795,-8.387,130.016,4,11,1,0.706,0.956,0.0529,0.0898,0.903,0.104,0.371,False,6,11,['minimal dub'],2001
+spotify:track:1h2UgjAr0hko2B9CijBAnx,U DO YO THING 2020,Diogo Sá,405.37643,-8.448,134.988,4,1,1,0.682,0.95,0.0573,0.000215,0.861,0.107,0.217,False,16,11,[],213
+spotify:track:4rqrVzx6jNGDj2Oi93QPaP,U DO YO THING 2020,Diogo Sá,258.16998,-11.579,120.005,4,1,1,0.745,0.835,0.0522,0.00152,0.856,0.092,0.414,False,7,13,['float house'],2740
+spotify:track:4lRMtWT8nZd6152bycQv0r,U DO YO THING 2020,Diogo Sá,323.0406,-12.23,132.018,4,10,0,0.811,0.764,0.168,0.0216,0.801,0.0932,0.528,False,6,27,"['minimal dub', 'minimal techno', 'techno']",13492
+spotify:track:6FRgc3WbVBgkYlJ9EycsD8,U DO YO THING 2020,Diogo Sá,483.84,-8.482,124.993,4,1,1,0.813,0.785,0.0778,8.68e-05,0.595,0.0987,0.271,False,6,27,['acid house'],18424
+spotify:track:5pagyQlJZ0Lf8zgCwVCu07,U DO YO THING 2020,Diogo Sá,356.3077,-9.713,130.003,4,6,0,0.767,0.818,0.0617,0.0183,0.91,0.11,0.0507,False,0,1,[],50
+spotify:track:4MyfCSvggKffu9jZUpDHfD,U DO YO THING 2020,Diogo Sá,391.1726,-11.537,140.017,4,11,0,0.588,0.791,0.0606,0.0356,0.0687,0.0675,0.228,False,28,30,"['experimental techno', 'float house', 'minimal dub', 'modular techno', 'outsider house']",13032
+spotify:track:0U75RBqHFyMmdGnaA3Eb7x,U DO YO THING 2020,Diogo Sá,436.5722,-10.408,125.981,4,7,1,0.693,0.667,0.138,0.00719,0.451,0.608,0.0872,False,29,43,"['acid house', 'dark disco', 'deep house', 'detroit techno', 'dub techno', 'electro', 'float house', 'intelligent dance music', 'microhouse', 'minimal dub', 'minimal techno', 'outsider house', 'tech house', 'techno']",46905
+spotify:track:1nL5XZ8w33O3YeZDMlLJkW,U DO YO THING 2020,Diogo Sá,368.16162,-7.885,143.005,4,1,1,0.578,0.837,0.0416,0.0022,0.903,0.105,0.215,False,9,38,"['minimal dub', 'raw techno']",11019
+spotify:track:31fHyB2Granyqy1rstDGrG,U DO YO THING 2020,Diogo Sá,352.32812,-7.613,128.041,4,11,0,0.776,0.665,0.227,0.000522,0.567,0.113,0.158,False,21,20,['minimal dub'],7083
+spotify:track:0MBKLAcupOXPLQU0LRWyPR,U DO YO THING 2020,Diogo Sá,361.6,-8.08,138.011,3,0,1,0.519,0.86,0.0438,0.000289,0.743,0.116,0.283,False,12,17,['techno rave'],925
+spotify:track:6e9TF3a12FMkeHlUKj2dYI,U DO YO THING 2020,Diogo Sá,210.93333,-11.987,150.179,4,1,1,0.654,0.861,0.0443,0.00545,0.892,0.158,0.325,False,9,2,[],18
+spotify:track:385poZDk3lEmonwvCr5XUl,U DO YO THING 2020,Diogo Sá,373.13867,-6.652,136.977,4,10,0,0.442,0.961,0.0399,4.23e-06,0.828,0.146,0.551,False,41,48,"['dark techno', 'deep euro house', 'hard techno', 'raw techno', 'tech house']",35678
+spotify:track:0DuHkX2KrnjXJvVuFrt3Gc,U DO YO THING 2020,Diogo Sá,609.8667,-5.151,139.995,4,11,0,0.596,0.973,0.0706,2.62e-06,0.869,0.0704,0.111,False,13,20,[],224
+spotify:track:3o9tdbDkDMbvT9mnO6TYs9,U DO YO THING 2020,Diogo Sá,445.44363,-8.997,133.543,4,7,1,0.771,0.729,0.0529,0.00559,0.839,0.105,0.626,False,8,5,[],70
+spotify:track:5ptZMSyHZB75AlZkqZBPbR,U DO YO THING 2020,Diogo Sá,496.50903,-10.058,138.008,4,1,1,0.753,0.96,0.074,0.00125,0.857,0.103,0.129,False,5,33,"['minimal dub', 'techno']",17053
+spotify:track:6XmGhb4ngOEqgj3Sa98Ycw,U DO YO THING 2020,Diogo Sá,363.45654,-7.315,126.918,4,10,0,0.78,0.732,0.231,0.000625,0.61,0.106,0.664,False,9,36,"['minimal dub', 'minimal techno']",58209
+spotify:track:7JLrkpQQpjHlKtEcV82xkl,U DO YO THING 2020,Diogo Sá,408.84,-14.385,131.948,4,6,0,0.767,0.617,0.157,0.461,0.855,0.112,0.52,False,1,43,"['acid house', 'dark disco', 'deep house', 'detroit techno', 'dub techno', 'electro', 'float house', 'intelligent dance music', 'microhouse', 'minimal dub', 'minimal techno', 'outsider house', 'tech house', 'techno']",46905
+spotify:track:6sJYB4mlv1tbUCKUd6iv4T,U DO YO THING 2020,Diogo Sá,309.85074,-10.913,134.007,4,1,0,0.789,0.585,0.079,0.000211,0.876,0.0711,0.208,False,14,34,"['australian techno', 'destroy techno', 'electro', 'ghettotech']",11608
+spotify:track:5jku14D6MeKJYhqMIM6KUb,U DO YO THING 2020,Diogo Sá,362.0,-7.26,145.01,4,1,1,0.662,0.946,0.0443,0.0551,0.895,0.25,0.208,False,14,19,['australian techno'],637
+spotify:track:67XmyIQHiKB2go1hlT8MWV,U DO YO THING 2020,Diogo Sá,491.39246,-8.542,125.517,4,11,0,0.627,0.937,0.0392,0.106,0.885,0.109,0.207,False,21,35,"['bass music', 'classic dubstep', 'future garage', 'minimal dnb']",34731
+spotify:track:6o7MDVnZ7MKMorNJ9VRjZI,U DO YO THING 2020,Diogo Sá,293.63956,-13.506,131.019,4,7,1,0.744,0.561,0.0521,0.0155,0.703,0.0953,0.238,False,7,13,[],442
+spotify:track:1XDus5YFA46CuYuKTLdG8C,U DO YO THING 2020,Diogo Sá,337.87076,-7.104,131.996,4,10,0,0.789,0.921,0.053,0.00085,0.906,0.0522,0.608,False,14,34,"['australian techno', 'destroy techno', 'electro', 'ghettotech']",11608
+spotify:track:0fIPrtVqAd1rHnGSByqnzq,U DO YO THING 2020,Diogo Sá,406.15384,-6.41,142.986,4,1,0,0.761,0.982,0.0666,0.00016,0.9,0.104,0.207,False,39,40,"['hard techno', 'minimal dub', 'norwegian techno']",6320
